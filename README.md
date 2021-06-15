@@ -59,7 +59,7 @@ These varying files can be placed in the PerSample (1) or Paired (2) folders tha
 
 Knights, D. et al. 2011. Bayesian community-wide culture-independent microbial source tracking. Nature Methods, 8, 9, 761-763. [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3791591/)
 
-Love, M.I., Huber, W., Anders, S. (2014) Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biology, 15:550. 10.1186/s13059-014-0550-8
+Love, M.I., Huber, W., Anders, S. (2014) Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biology, 15:550. 10.1186/s13059-014-0550-8 [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0550-8)
 
 McIver LJ, Abu-Ali G, Franzosa EA, Schwager R, Morgan XC, Waldron L, Segata N, Huttenhower C. bioBakery: a meta'omic analysis environment. Bioinformatics. 2018 Apr 1;34(7):1235-1237. [PMID: 29194469](https://pubmed.ncbi.nlm.nih.gov/29194469/)
 
